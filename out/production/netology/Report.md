@@ -11,7 +11,7 @@
 
 
 ## Описание процесса тестирования
-В процессе тестирования использовались следующие артефакты*:
+В процессе тестирования использовались следующие артефакты:
 * Тест-план https://docs.google.com/spreadsheets/d/1FjfbBs7BKLDS8A42inujnFEeuUyI9kwyMdNZwKKoQVM/edit?usp=sharing
 * тестовые данные кредитных карт https://www.freeformatter.com/credit-card-number-generator-validator.html#validate
 
